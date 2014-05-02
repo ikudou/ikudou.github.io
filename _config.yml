@@ -1,27 +1,26 @@
-title:            xiaowu's blog
+title:            KuDou's blog
 description:      I am a strange man. this is my blog.
 url:              # Site url.
 baseurl:          # Base url. ( if use subdirectory-like URL )
-signoff:          Eric zhou # Your name.
+signoff:          Kong Kudou # Your name.
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 google_analytics_id: # set tracking, UA-XXXX-Y.
 
 links:
   - name:         Home
-    url:          http://xiaowudesign.github.io
+    url:          http://ikudou.github.io
     external:     true
   - name:         About
     url:          /about
   - name:         Feed
     url:          /feed.xml
   - name:         Blog
-    url:          http://www.aips.me
-    external:     true
+    url:          http://www.kudou.org
   - name:         Email
-    url:          mailto:wwwzhouliang@gmail.com
+    url:          mailto:i@kudou.org
     external:     true
   - name:         GitHub
-    url:          http://github.com/xiaowudesign/xiaowudesign.github.io
+    url:          http://github.com/ikudou/ikudou.github.io
     external:     true
 
 pygments:         true
